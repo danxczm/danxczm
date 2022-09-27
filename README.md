@@ -1,7 +1,5 @@
 <h3 align="center">A passionate frontend developer and employee of your dreams from Ukraine🇺🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danxczm&label=Profile%20views&color=0e75b6&style=flat" alt="danxczm" /> </p>
-
 - 📫 How to reach me **danbohdan92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
